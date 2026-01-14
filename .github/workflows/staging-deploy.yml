@@ -44,5 +44,5 @@ jobs:
           echo "Image digest: ${{ steps.docker_build.outputs.digest }}"
           echo "Image tags: ${{ steps.docker_build.outputs.tags }}"
 
-            - name: Deploy to staging
-              run: echo "Deploying Vue app to staging"
+      - name: Deploy to staging
+        run: echo "Deploying Vue app to staging"
