@@ -1,5 +1,5 @@
 <script setup lang="ts"></script>
 
 <template>
-  <h1>HEllo To DevOps Life!</h1>
+  <h1>Welcome To DevOps Life chester!</h1>
 </template>
